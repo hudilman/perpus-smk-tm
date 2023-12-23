@@ -25,10 +25,3 @@ Password : admin
      <li> Semoga Bermanfaat </li>
 </ul>
 
-# Terima Kasih
-<ul>
-    <li> AdminLTE </li>
-    <li> PT. Pacifica Raya Technology </li>
-    <li> Stackoverflow </li>
-    <li> Google </li>
-</ul>
